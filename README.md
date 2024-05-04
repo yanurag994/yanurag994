@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently working on containerizing several applications with custom implementations of PiHole, Samba, and Cloudflared DoH for my HomeNetwork.
+I'm a security freak and currently working on containerizing several applications with custom implementations of PiHole, Samba, and Cloudflared DoH for my HomeNetwork.
 
 On the coding side, I am working on the RTIOW project available at [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html), along with completing several pending contributions towards LHF library.
 
