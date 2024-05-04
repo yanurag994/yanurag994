@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**yanurag994/yanurag994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently working on containerizing several applications with custom implementations of PiHole, Samba, and Cloudflared DoH for my HomeNetwork.
 
-Here are some ideas to get you started:
+On the coding side, I am working on the RTIOW project available at [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html), along with completing several pending contributions towards LHF library.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### About Me
+
+- 🔭 I’m currently working on: Containerizing home network applications, RTIOW project, and contributing to LHF library.
+- 🌱 I’m currently learning: Advanced C++ techniques and exploring machine learning algorithms.
+- 💬 Ask me about: C++, Python, high-performance and low-latency applications, machine learning models.
+- 📫 How to reach me: [Send me an email](mailto:yanurag994@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I have a Know it all attitude but would love being proven wrong.
+
+Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities!
